@@ -21,5 +21,5 @@
 
 ## Видео Демонстрация
 
-[![Видео Демонстрация](screenshots/video_thumbnail.png)](https://youtu.be/ваш-видео-ссылка)
+[![Видео Демонстрация](screenshots/video_thumbnail.png)](https://youtu.be/-WeazNf2MaI?si=6wAiKALW9akXEzHX)
 Окончательный результат переноса стиля, демонстрирующий преобразованное изображение с выбранным художественным стилем.
