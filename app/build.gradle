@@ -1,0 +1,22 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.tencent.styletransferncnn'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.tencent.styletransferncnn"
+        archivesBaseName = "$applicationId"
+
+        minSdk 21
+    }
+
+    externalNativeBuild {
+        cmake {
+            version "3.10.2"
+            path file('src/main/jni/CMakeLists.txt')
+        }
+    }
+}

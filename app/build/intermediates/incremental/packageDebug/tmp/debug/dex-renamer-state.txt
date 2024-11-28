@@ -1,0 +1,7 @@
+#Thu Nov 28 19:08:34 ART 2024
+base.0=/home/alex/ekaterina/android_styletransfer/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/home/alex/ekaterina/android_styletransfer/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+path.0=0/classes.dex
+path.1=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,7 @@
+com.tencent.styletransferncnn.app-pngs-0 /home/alex/ekaterina/android_styletransfer/app/build/generated/res/pngs/debug
+com.tencent.styletransferncnn.app-resValues-1 /home/alex/ekaterina/android_styletransfer/app/build/generated/res/resValues/debug
+com.tencent.styletransferncnn.app-packageDebugResources-2 /home/alex/ekaterina/android_styletransfer/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.tencent.styletransferncnn.app-packageDebugResources-3 /home/alex/ekaterina/android_styletransfer/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.tencent.styletransferncnn.app-debug-4 /home/alex/ekaterina/android_styletransfer/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.tencent.styletransferncnn.app-debug-5 /home/alex/ekaterina/android_styletransfer/app/src/debug/res
+com.tencent.styletransferncnn.app-main-6 /home/alex/ekaterina/android_styletransfer/app/src/main/res

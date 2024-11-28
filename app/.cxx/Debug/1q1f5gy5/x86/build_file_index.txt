@@ -1,0 +1,1 @@
+/home/alex/ekaterina/android_styletransfer/app/src/main/jni/CMakeLists.txt

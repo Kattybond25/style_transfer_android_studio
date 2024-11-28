@@ -1,0 +1,3 @@
+# ninja log v5
+0	424	1732831663	CMakeFiles/styletransferncnn.dir/styletransferncnn_jni.cpp.o	bc445d3823c4c52
+424	443	1732831663	/home/alex/ekaterina/android_styletransfer/app/build/intermediates/cxx/Debug/1q1f5gy5/obj/arm64-v8a/libstyletransferncnn.so	868e1f834be1046d

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alex/ekaterina/android_styletransfer/app/.cxx/Debug/1q1f5gy5/x86",
+  "command": "/home/alex/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/home/alex/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dstyletransferncnn_EXPORTS -isystem /home/alex/ekaterina/android_styletransfer/app/src/main/jni/ncnn-20240410-android-vulkan/x86/include/ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles/styletransferncnn.dir/styletransferncnn_jni.cpp.o -c /home/alex/ekaterina/android_styletransfer/app/src/main/jni/styletransferncnn_jni.cpp",
+  "file": "/home/alex/ekaterina/android_styletransfer/app/src/main/jni/styletransferncnn_jni.cpp"
+}
+]

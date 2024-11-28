@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.styletransferncnn.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/alex/ekaterina/android_styletransfer/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "110,55",
+                        "endLines": "9,2",
+                        "endColumns": "19,54",
+                        "endOffsets": "312,105"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,262",
+                        "endLines": "8,9",
+                        "endColumns": "19,54",
+                        "endOffsets": "257,312"
+                    }
+                }
+            ]
+        }
+    ]
+}

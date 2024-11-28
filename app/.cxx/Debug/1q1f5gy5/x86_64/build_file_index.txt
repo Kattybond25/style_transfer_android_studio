@@ -1,0 +1,1 @@
+/home/alex/ekaterina/ncnn-android-styletransfer/app/src/main/jni/CMakeLists.txt

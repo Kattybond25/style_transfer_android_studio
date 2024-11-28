@@ -1,0 +1,8 @@
+com.tencent.styletransferncnn:string/app_name = 0x7f040000
+com.tencent.styletransferncnn:layout/main = 0x7f030000
+com.tencent.styletransferncnn:id/spinnerStyle = 0x7f020004
+com.tencent.styletransferncnn:array/style_array = 0x7f010000
+com.tencent.styletransferncnn:id/buttonDetect = 0x7f020000
+com.tencent.styletransferncnn:id/buttonImage = 0x7f020002
+com.tencent.styletransferncnn:id/buttonDetectGPU = 0x7f020001
+com.tencent.styletransferncnn:id/imageView = 0x7f020003

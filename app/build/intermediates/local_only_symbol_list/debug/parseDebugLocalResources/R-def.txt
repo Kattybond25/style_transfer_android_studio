@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+array style_array
+id buttonDetect
+id buttonDetectGPU
+id buttonImage
+id imageView
+id spinnerStyle
+layout main
+string app_name

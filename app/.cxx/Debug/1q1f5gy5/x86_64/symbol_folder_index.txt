@@ -1,0 +1,1 @@
+/home/alex/ekaterina/ncnn-android-styletransfer/app/build/intermediates/cxx/Debug/1q1f5gy5/obj/x86_64

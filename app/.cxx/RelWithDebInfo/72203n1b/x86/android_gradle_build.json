@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/alex/ekaterina/android_styletransfer/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/alex/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/alex/ekaterina/android_styletransfer/app/.cxx/RelWithDebInfo/72203n1b/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/alex/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/alex/ekaterina/android_styletransfer/app/.cxx/RelWithDebInfo/72203n1b/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "styletransferncnn-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/home/alex/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/alex/ekaterina/android_styletransfer/app/.cxx/RelWithDebInfo/72203n1b/x86",
+        "styletransferncnn"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "styletransferncnn",
+      "output": "/home/alex/ekaterina/android_styletransfer/app/build/intermediates/cxx/RelWithDebInfo/72203n1b/obj/x86/libstyletransferncnn.so",
+      "runtimeFiles": [
+        "/home/alex/ekaterina/android_styletransfer/app/src/main/jni/ncnn-20240410-android-vulkan/x86/lib/libncnn.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

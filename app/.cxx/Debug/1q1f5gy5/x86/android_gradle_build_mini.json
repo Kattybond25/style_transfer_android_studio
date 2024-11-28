@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "/home/alex/ekaterina/android_styletransfer/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/alex/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/alex/ekaterina/android_styletransfer/app/.cxx/Debug/1q1f5gy5/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/alex/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/alex/ekaterina/android_styletransfer/app/.cxx/Debug/1q1f5gy5/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "styletransferncnn-Debug-x86": {
+      "artifactName": "styletransferncnn",
+      "buildCommandComponents": [
+        "/home/alex/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/alex/ekaterina/android_styletransfer/app/.cxx/Debug/1q1f5gy5/x86",
+        "styletransferncnn"
+      ],
+      "abi": "x86",
+      "output": "/home/alex/ekaterina/android_styletransfer/app/build/intermediates/cxx/Debug/1q1f5gy5/obj/x86/libstyletransferncnn.so",
+      "runtimeFiles": [
+        "/home/alex/ekaterina/android_styletransfer/app/src/main/jni/ncnn-20240410-android-vulkan/x86/lib/libncnn.so"
+      ]
+    }
+  }
+}
